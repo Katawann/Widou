@@ -12,15 +12,21 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.widou.apk.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_garden"
+        android:name="com.widou.apk.ui.notifications.NotificationsFragment"
+        android:label="@string/title_garden"
+        tools:layout="@layout/fragment_notifications" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
+        android:id="@+id/navigation_plants"
         android:name="com.widou.apk.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
+        android:label="@string/title_plants"
+        tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_social"
+        android:name="com.widou.apk.ui.notifications.NotificationsFragment"
+        android:label="@string/title_social"
         tools:layout="@layout/fragment_notifications" />
 
     <fragment
