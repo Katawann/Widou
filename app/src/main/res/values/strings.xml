@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">Widou</string>
-    <string name="title_activity_main2">Main2Activity</string>
+
     <string name="title_home">Home</string>
     <string name="title_market">Market</string>
     <string name="title_garden">Garden</string>
     <string name="title_plants">Plants</string>
-    <string name="title_social">Community</string>
+    <string name="title_social">Social</string>
+
+    <string name="nav_header_title">Laflotin Redaco</string>
+    <string name="nav_header_subtitle">laflotin.redaco@caramail.fr</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="section_comm">Communicate</string>
 </resources>
