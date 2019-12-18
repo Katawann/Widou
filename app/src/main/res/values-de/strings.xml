@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Widou</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_market">Markt</string>
+    <string name="title_garden">Gemüsegarten </string>
+    <string name="title_plants">Pflanzen</string>
+    <string name="title_social">Sozial</string>
+
+    <string name="nav_header_title">Laflotin Redaco</string>
+    <string name="nav_header_subtitle">laflotin.redaco@caramail.fr</string>
+    <string name="nav_header_desc">En tête</string>
+    <string name="section_comm">Kommunikation</string>
+</resources>
